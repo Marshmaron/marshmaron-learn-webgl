@@ -1,0 +1,10 @@
+/* 初期化（無駄な余白をなくす） */
+body {
+    margin: 0;
+}
+
+/* canvasを画面いっぱいに広げる */
+canvas {
+    height: 100%;
+    width: 100%;
+}
